@@ -5,7 +5,7 @@ Demo: https://abdoali248.github.io/Quran-Player-Abdo/
 - Font "Cairo" By Google Fonts
 - CSS Flexbox
 - CSS Media Query
-- Adobe Color For Colors
+- Color Hunt For Colors
 ## مميزات الموقع
 - Fully Responsive
 - - - -
