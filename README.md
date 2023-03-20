@@ -12,5 +12,6 @@ Demo: https://abdoali248.github.io/Quran-Player-Abdo/
 أتمنى أن يفيدكم ويعجبكم.
 
 للمزيد:
-LinkedIn: https://www.linkedin.com/in/abd-elrahman-ali-b95896244?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BX3Rc0yPVSvyn2y%2BwGz2MVQ%3D%3D
+
+LinkedIn: https://www.linkedin.com/in/abd-elrahman-ali-b95896244?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B5YXL4eRSToqoYhC0yOaTVg%3D%3D
 - - -
